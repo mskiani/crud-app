@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "name": "shoaib",
+      "email": "shoaibkiani2@gmail.com",
+      "phone": "+935644544"
+    },
+    {
+      "id": 1684928757960,
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "phone": "1234567890\r"
+    },
+    {
+      "id": 1684928757961,
+      "name": "Jane Smith",
+      "email": "janesmith@example.com",
+      "phone": "9876543210\r"
+    },
+    {
+      "id": 1684928757962,
+      "name": "Adam Johnson",
+      "email": "adamjohnson@example.com",
+      "phone": "5678901234\r"
+    },
+    {
+      "id": 1684928757963,
+      "name": "Emily Wilson",
+      "email": "emilywilson@example.com",
+      "phone": "9012345678\r"
+    },
+    {
+      "id": 1684928813782,
+      "name": "Shopppp",
+      "email": "shoaibkiani2@gmail.com",
+      "phone": "03449648661"
+    }
+  ]
+}
